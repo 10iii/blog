@@ -5,14 +5,14 @@ pygments:         true
 paginate:         6
 permalink:        /:title
 
-title:            热推波
-url:              http://blog.retwi.com
+title:            三频道 blog
+url:              http://blog.channeliii.com
 feed:             /atom.xml
 author:
     name:         10iii
     twitter:      twitter.com/10iii
-description:      "10iii\'s Blog"
+description:      "Channel III Blog"
 author_info:      <a href="http://blog.retwi.com/about-10iii">10iii</a>
 
 copyright:
-    - Design by <a href="http://blog.retwi.com/about-10iii" title="10iii" target="_blank">10iii</a> &copy; 2013
+    - Design by <a href="http://blog.channeliii.com/about-10iii" title="10iii" target="_blank">10iii</a> &copy; 2013
